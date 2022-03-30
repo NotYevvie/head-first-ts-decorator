@@ -1,4 +1,7 @@
 # Decorator Pattern: Coffee Shop pre-refactor
+
+Origin / credit: https://github.com/hhuskinson/head-first-ts-decorator
+
 ## Getting started
 `nvm use`
 
