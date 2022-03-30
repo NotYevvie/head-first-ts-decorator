@@ -6,5 +6,6 @@
 
 ## Usage
 
-`npm run coffee` - run once
-`npm run cofee:dev` - run with HMR
+run once: `npm run coffee`
+
+HMR keepalive: `npm run cofee:dev`
